@@ -8,6 +8,6 @@ Testing Cypress's ability to run unit tests. Useful when we'd like to have acces
 
 ## Run tests
 
-`yarn test` for an interactive test runner
+`yarn test` for an interactive test runner. Some tests will fail by design, to prove that assertions are working correctly.
 
-`yarn test-ci` to run headlessly
+`yarn test-ci` to run headlessly for CI.
