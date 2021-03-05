@@ -14,7 +14,7 @@ Testing Cypress's ability to run unit tests. Useful when we'd like to have acces
 
 ## Todo
 
-✅ Unit tests running in a real DOM
-✅ Can examine in devtools
-✅ Extend assertions lib (chai-as-promised) 
-⏳ Typescript
+- ✅ Unit tests running in a real DOM
+- ✅ Can examine in devtools
+- ✅ Extend assertions lib (chai-as-promised) 
+- ⏳ Typescript
