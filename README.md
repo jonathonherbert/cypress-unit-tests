@@ -9,4 +9,5 @@ Testing Cypress's ability to run unit tests. Useful when we'd like to have acces
 ## Run tests
 
 `yarn test` for an interactive test runner
+
 `yarn test-ci` to run headlessly
